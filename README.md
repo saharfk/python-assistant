@@ -3,8 +3,7 @@
 imagine an assistant like google but in python.
 
 ***genie*** is that assistant that will help you out to do your works easily.
-things like playing music , searching on wikipedia , weather report , talking to you , opening your IDE for you and so on....
-
+It is designed a google assistant simulator that can do things like playing music, searching on Wikipedia, reporting weather, talking and understanding your voice, opening IDE, etc.
 # libraries you need to install :
 1. speech_recognition
 2. pyttsx3
